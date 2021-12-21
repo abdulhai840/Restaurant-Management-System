@@ -1,0 +1,39 @@
+const UserData=[
+    {
+        id:'1',
+        firstName:'Ali',
+        lastName:'Ahmed',
+        phone:'923088499303',
+        email:'testing@bizzclan.com'
+    },
+    {
+        id:'2',
+        firstName:'Ali',
+        lastName:'Ahmed',
+        phone:'923088499303',
+        email:'testing@bizzclan.com'
+    },
+    {
+        id:'3',
+        firstName:'Ali',
+        lastName:'Ahmed',
+        phone:'923088499303',
+        email:'testing@bizzclan.com'
+    },
+    {
+        id:'4',
+        firstName:'Ali',
+        lastName:'Ahmed',
+        phone:'923088499303',
+        email:'testing@bizzclan.com'
+    },
+    {
+        id:'5',
+        firstName:'Ali',
+        lastName:'Ahmed',
+        phone:'923088499303',
+        email:'testing@bizzclan.com'
+    },
+]
+
+export default UserData;
